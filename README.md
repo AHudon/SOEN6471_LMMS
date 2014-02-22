@@ -7,6 +7,7 @@ Groupe Members
 ---------------
 Amir Hakim MyID#4050711
 
+Sardar Maninder Singh MyId:6555519
 ### Where to find things
 
 Location                             | Info
