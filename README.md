@@ -14,6 +14,6 @@ Group Members
 
 Location                             | Info
 ------------------------------------ | ----------------------------------------
-LinuxMultimediaStudioMilestone3.pdf  | The deliverable (RAW)
+LinuxMultimediaStudioMilestone3.pdf  | Milestone 3
 lmms-src/                            | Where the copied code is inserted
 https://github.com/AHudon/lmms       | Official Fork  
