@@ -15,7 +15,7 @@ Group Members
 Location                             | Info
 ------------------------------------ | ----------------------------------------
 LinuxMultimediaStudioMilestone3.pdf  | Milestone 3
-LinuxMultimediaStudioMilestone4.pdf  | Milestone 4
+LinuxMultimediaStudio1Milestone4.pdf | Milestone 4
 lmms-src/                            | Where the copied code is inserted
 https://github.com/AHudon/lmms       | Fork Refactoring #1
 https://github.com/psyomn/lmms       | Fork Refactoring #2
